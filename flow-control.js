@@ -1,5 +1,5 @@
 function basicTeenager(age between 13 and 19) { You are a teenager
-} else {You are not a teenager}
+}
 
 function teenager(age) {
 
