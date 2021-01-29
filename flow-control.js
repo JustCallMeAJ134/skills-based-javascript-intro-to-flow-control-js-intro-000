@@ -1,4 +1,4 @@
-function basicTeenager(age between 13 and 19) { You are a teenager
+function basicTeenager(age) {
 }
 
 function teenager(age) {
